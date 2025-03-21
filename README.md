@@ -108,3 +108,17 @@ If you have any questions, suggestions, or issues regarding this project, feel f
 
 Thank you for checking out my project! 😊 I hope this guide helps you navigate through GitHub and project management smoothly. Happy coding! 🚀
 
+
+## 📂 Project Structure
+
+```
+| File/Folder     | Description                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| point.py         | Core functionality; contains a class representing a geographical point.     |
+| tests/           | Contains unit test files to verify that the project works as expected.      |
+| img/             | Includes images used in the project (e.g., GitHub logo and other assets).   |
+| README.md        | Main documentation for the project, including setup and usage instructions. |
+| LICENSE          | Licensing details of the project.                                           |
+| .gitignore       | Specifies files and folders to be ignored by Git.                          |
+```
+
